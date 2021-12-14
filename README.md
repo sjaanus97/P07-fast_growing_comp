@@ -33,9 +33,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Authors
 
-Roland Pajuleht
-Lisanna Lehes 
-Simo Jaanus 
+Roland Pajuleht,
+Lisanna Lehes, 
+Simo Jaanus, 
 Kertu Nurmberg
 
 Project Link: [https://github.com/sjaanus97/P07-fast_growing_comp](https://github.com/sjaanus97/P07-fast_growing_comp)
